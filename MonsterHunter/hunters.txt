@@ -1,0 +1,273 @@
+NEW CARD
+Beginner Sword & Shield
+0
+0
+0
+2
+1
+NEW CARD
+Beginner Dual Swords
+0
+0
+0
+2
+1
+NEW CARD
+Beginner Greatsword
+0
+0
+1
+3
+1
+NEW CARD
+Beginner Longsword
+0
+0
+1
+3
+1
+NEW CARD
+Beginner Lance
+0
+0
+2
+2
+1
+NEW CARD
+Beginner Gunlance
+0
+0
+2
+3
+1
+NEW CARD
+Beginner Switchaxe
+0
+0
+1
+3
+1
+NEW CARD
+Beginner Chargeblade
+0
+0
+0
+3
+1
+NEW CARD
+Beginner Insectglaive
+0
+0
+2
+2
+1
+NEW CARD
+Beginner Light Bowgun
+0
+0
+2
+2
+1
+NEW CARD
+Beginner Heavy Bowgun
+0
+0
+2
+3
+1
+NEW CARD
+Beginner Hammer
+0
+0
+0
+3
+1
+NEW CARD
+Beginner Huntinghorn
+0
+0
+1
+2
+1
+NEW CARD
+Adept Sword & Shield
+0
+0
+0
+5
+1
+NEW CARD
+Adept Dual Swords
+0
+0
+0
+5
+1
+NEW CARD
+Adept Greatsword
+0
+0
+1
+5
+1
+NEW CARD
+Adept Longsword
+0
+0
+1
+5
+1
+NEW CARD
+Adept Lance
+0
+0
+2
+5
+1
+NEW CARD
+Adept Gunlance
+0
+0
+1
+5
+1
+NEW CARD
+Adept Switchaxe
+0
+0
+1
+5
+1
+NEW CARD
+Adept Chargeblade
+0
+0
+0
+6
+1
+NEW CARD
+Adept Insectglaive
+0
+0
+1
+5
+1
+NEW CARD
+Adept Light Bowgun
+0
+0
+2
+5
+1
+NEW CARD
+Adept Heavy Bowgun
+0
+0
+2
+6
+1
+NEW CARD
+Adept Hammer
+0
+0
+0
+5
+1
+NEW CARD
+Adept Huntinghorn
+0
+0
+1
+5
+1
+NEW CARD
+Expert Sword & Shield
+0
+0
+0
+9
+1
+NEW CARD
+Expert Dual Swords
+0
+0
+0
+10
+1
+NEW CARD
+Expert Greatsword
+0
+0
+1
+10
+1
+NEW CARD
+Expert Longsword
+0
+0
+1
+10
+1
+NEW CARD
+Expert Lance
+0
+0
+2
+10
+1
+NEW CARD
+Expert Gunlance
+0
+0
+1
+10
+1
+NEW CARD
+Expert Switchaxe
+0
+0
+1
+10
+1
+NEW CARD
+Expert Chargeblade
+0
+0
+0
+10
+1
+NEW CARD
+Expert Insectglaive
+0
+0
+1
+10
+1
+NEW CARD
+Expert Light Bowgun
+0
+0
+2
+10
+1
+NEW CARD
+Expert Heavy Bowgun
+0
+0
+2
+10
+1
+NEW CARD
+Expert Hammer
+0
+0
+1
+10
+1
+NEW CARD
+Expert Huntinghorn
+0
+0
+1
+9
+1

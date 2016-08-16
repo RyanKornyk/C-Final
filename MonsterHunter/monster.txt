@@ -1,0 +1,266 @@
+NEW CARD
+Rathalos
+0
+0
+2
+7
+0
+NEW CARD
+Rathian
+0
+0
+1
+6
+0
+NEW CARD
+Velociprey
+0
+0
+0
+3
+0
+NEW CARD
+Velocidrome
+0
+0
+0
+4
+0
+NEW CARD
+Jaggi
+0
+0
+0
+1
+0
+NEW CARD
+Jaggia
+0
+0
+0
+2
+0
+NEW CARD
+Bullfango
+0
+0
+0
+2
+0
+NEW CARD
+BullDrome
+0
+0
+0
+3
+0
+NEW CARD
+Yian Kut Ku
+0
+0
+1
+4
+0
+NEW CARD
+Astalos
+0
+0
+2
+7
+0
+NEW CARD
+Teostra
+0
+0
+2
+10
+0
+NEW CARD
+Kushula Doara
+0
+0
+2
+10
+0
+NEW CARD
+Zinogre
+0
+0
+0
+7
+0
+NEW CARD
+Khezu
+0
+0
+2
+5
+0
+NEW CARD
+Akantor
+0
+0
+2
+15
+0
+NEW CARD
+Lao Shen Lung
+0
+0
+2
+17
+0
+NEW CARD
+Gao Ren
+0
+0
+2
+15
+0
+NEW CARD
+Tetsucabra
+0
+0
+1
+5
+0
+NEW CARD
+Felynes
+0
+0
+0
+1
+0
+NEW CARD
+Shakalaka
+0
+0
+0
+1
+0
+NEW CARD
+Vespoid
+0
+0
+2
+1
+0
+NEW CARD
+Plesioth
+0
+0
+2
+7
+0
+NEW CARD
+Gypseros
+0
+0
+1
+5
+0
+NEW CARD
+Genprey
+0
+0
+0
+2
+0
+NEW CARD
+Gendrome
+0
+0
+0
+3
+0
+NEW CARD
+Yian Garuga
+0
+0
+1
+5
+0
+NEW CARD
+Lavasioth
+0
+0
+2
+7
+0
+NEW CARD
+Gold Rathian
+0
+0
+1
+9
+0
+NEW CARD
+Silver Rathalos
+0
+0
+2
+10
+0
+NEW CARD
+Gore Magala
+0
+0
+1
+7
+0
+NEW CARD
+Shaguru Magala
+0
+0
+1
+9
+0
+NEW CARD
+Seregios
+0
+0
+0
+8
+0
+NEW CARD
+Zamite
+0
+0
+0
+2
+0
+NEW CARD
+Zamitrios
+0
+0
+0
+5
+0
+NEW CARD
+Lunastra
+0
+0
+2
+9
+0
+NEW CARD
+Chameleos
+0
+0
+1
+10
+0
+NEW CARD
+Rajang
+0
+0
+0
+12
+0
+NEW CARD
+Blangonga
+0
+0
+1
+6
+0
